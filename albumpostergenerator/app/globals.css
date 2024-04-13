@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-beige {
+    background-color: #DFD8D2;
+}
+
+ol {
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+  }
